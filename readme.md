@@ -1,4 +1,4 @@
-# Tokenizer Library API Reference
+# Tokenizer Library Reference
 
 **Version:** 2023.10.18
 
